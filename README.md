@@ -13,6 +13,6 @@ Anime character phrases according to the character's name passed via Lambda *eve
 npm install && npm run build
 ```
 
-After that the file named *lambda-sample.zip* will be present into root directory and will be possible use it to upload in AWS Lambda console creation step.
+After that, the file named *lambda-sample.zip* will be present into root directory and will be possible use it to upload in AWS Lambda console creation step.
 
 > If on Windows, use the compress software of your choise to generate a .zip file after run _npm install_
